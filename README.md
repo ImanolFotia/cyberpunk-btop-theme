@@ -1,6 +1,7 @@
 # Cyberpunk inspired theme for btop
 
 Just that, a Cyberpunk 2077 inspired theme for btop
+![Screenshot](https://raw.githubusercontent.com/ImanolFotia/cyberpunk-btop-theme/refs/heads/master/media/screenshot.png)
 
 ## Installation
 #### Step 1
